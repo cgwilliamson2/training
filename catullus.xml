@@ -56,9 +56,9 @@
             <witness xml:id="servius"><abbr type="siglum">Servius</abbr></witness>
             <witness xml:id="past"><abbr type="siglum">Patregnicus</abbr></witness>
             <witness xml:id="V"><abbr type="siglum">V</abbr>= <title>fons communis codicum OGR</title> 1280?</witness>
-            <witness xml:id="O"><abbr type="siglum">V</abbr>= <title>Oxoniensis Bodleianus Canonicianus class.la.30</title></witness>
-            <witness xml:id="G"><abbr type="siglum">V</abbr>= <title>Parsenius lat. 14137</title></witness>
-            <witness xml:id="R"><abbr type="siglum">V</abbr>= <title>Vaticanus Ottobonianus lat.1829</title></witness>
+            <witness xml:id="O"><abbr type="siglum">O</abbr>= <title>Oxoniensis Bodleianus Canonicianus class.la.30</title></witness>
+            <witness xml:id="G"><abbr type="siglum">G</abbr>= <title>Parsenius lat. 14137</title></witness>
+            <witness xml:id="R"><abbr type="siglum">R</abbr>= <title>Vaticanus Ottobonianus lat.1829</title></witness>
           </listWit>
         </div>
       </div>
